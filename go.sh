@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/usr/bin/yq $@
+/usr/bin/yq "$@"
